@@ -1,2 +1,2 @@
 # nand2tetris
-Nand to Tetris projects
+Some Nand to Tetris projects
